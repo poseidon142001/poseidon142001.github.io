@@ -21,12 +21,15 @@ h3{
 	font: 2.5em 'Ubuntu', sans-serif;
 }
 
-footer{
-	margin-top: 300px;
-	letter-spacing: 0.1em;
-}
-
 h5 {
+	
 	letter-spacing: .3em;
 	color: white;
 }
+
+footer{
+	margin-top: 10%;
+	letter-spacing: 0.1em;
+}
+
+
